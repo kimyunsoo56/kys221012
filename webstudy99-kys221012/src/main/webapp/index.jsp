@@ -14,7 +14,7 @@
 </head>
 <body>
 <div class="container pt-3">
-index 김윤수
+index 김윤수 서정우
 </div>
 </body>
 </html>
